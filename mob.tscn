@@ -57,9 +57,8 @@ script = ExtResource("1_7cdm4")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 scale = Vector2(0.75, 0.75)
 sprite_frames = SubResource("SpriteFrames_w8qlr")
-animation = &"walk"
-frame = 1
-frame_progress = 0.946365
+animation = &"fly"
+frame_progress = 0.79575
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -1)
